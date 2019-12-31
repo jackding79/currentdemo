@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ConcurrentDemo.iml" filepath="$PROJECT_DIR$/.idea/ConcurrentDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot05/springboot05.iml" filepath="$PROJECT_DIR$/../springboot05/springboot05.iml" />
     </modules>
   </component>
 </project>
